@@ -1,1 +1,1 @@
-trigger apk build
+trigger apk build from pull request
